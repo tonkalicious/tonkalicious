@@ -3,7 +3,4 @@
 - 🌱 I’m currently learning Python and SQL.
 - 💞️ I’m looking to collaborate on project for tic-tac-toe game.
 
-<!---
-tonkalicious/tonkalicious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I worked as a math teacher and now I try to change my career and find a job as a Data Analyst.
